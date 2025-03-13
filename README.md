@@ -25,3 +25,5 @@ Amazon Clone/
 │── README.md               # Project documentation
 ```
 
+## Live Demo
+[Click here to view the project](https://medhabar.github.io/amazon-clone/)
