@@ -1,4 +1,6 @@
-# Amazon Clone
+# Amazon Clone  
+[Click here to view the project](https://medhabar.github.io/amazon-clone/)
+
 
 ## Overview
 The Amazon Clone is a front-end web project that replicates the UI/UX of Amazon's homepage. It features a responsive design with a navigation bar, search functionality, product categories, and a footer section.
@@ -24,6 +26,3 @@ Amazon Clone/
 │── style.css               # CSS file for styling
 │── README.md               # Project documentation
 ```
-
-## Live Demo
-[Click here to view the project](https://medhabar.github.io/amazon-clone/)
